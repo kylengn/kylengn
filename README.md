@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @kylengn
-- 👀 I’m interested in Software/Web App Development
-- 🌱 I’m currently learning Front-End/React Development
-- 💞️ I’m looking to collaborate on Open Source projects
-- 📫 How to reach me: kyle.nguyen304@gmail.com
+👋 Welcome! I'm Kyle Nguyen, a Front End Architect with extensive experience in developing scalable, high-performance web applications. Specializing in React, Vue, JavaScript, CSS, and HTML, I've led and contributed to numerous projects, driving innovation and excellence in web development. My portfolio showcases a diverse range of projects, from enhancing user interfaces to optimizing web application architecture for improved performance and usability. Explore my professional journey and insights at [My Porfolio](https://kylenguyen.net), and connect with me on [Twitter](https://twitter.com/kylengn) for the latest in web technology and development trends.
 
 <!---
 kylengn/kylengn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
